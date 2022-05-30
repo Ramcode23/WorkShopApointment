@@ -152,12 +152,7 @@ namespace AppoimentsWorkShop.Controllers
 
         }
 
-        [HttpGet]
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Administrator")]
-        public IActionResult GetUserList()
-        {
-            return Ok();
-        }
+    
     }
 
 }

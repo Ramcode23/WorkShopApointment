@@ -11613,11 +11613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Escritorio\\Courses\\Bootcamp\\C#\\AppoimentsWorkShop\\AppoimentsWorkShop\\AppoimentsWorkShop.csproj",
+      "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Escritorio\\New folder\\WorkShopApointment\\AppoimentsWorkShop\\AppoimentsWorkShop.csproj",
       "projectName": "AppoimentsWorkShop",
-      "projectPath": "C:\\Users\\ramc2\\OneDrive\\Escritorio\\Courses\\Bootcamp\\C#\\AppoimentsWorkShop\\AppoimentsWorkShop\\AppoimentsWorkShop.csproj",
+      "projectPath": "C:\\Users\\ramc2\\OneDrive\\Escritorio\\New folder\\WorkShopApointment\\AppoimentsWorkShop\\AppoimentsWorkShop.csproj",
       "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramc2\\OneDrive\\Escritorio\\Courses\\Bootcamp\\C#\\AppoimentsWorkShop\\AppoimentsWorkShop\\obj\\",
+      "outputPath": "C:\\Users\\ramc2\\OneDrive\\Escritorio\\New folder\\WorkShopApointment\\AppoimentsWorkShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11727,7 +11727,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22154.4\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }
